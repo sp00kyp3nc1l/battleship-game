@@ -1,3 +1,3 @@
-"# battleship-game" 
+# battleship-game
 
 Welcome to our game
